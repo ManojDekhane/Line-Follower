@@ -24,7 +24,7 @@ The robot detects and follows a black line path using sensor-based control logic
 ## 🛠️ Tech Stack / Components
 - **Arduino Nano**
 - **8-array IR Sensor**
-- **L293D Motor Driver**
+- **L298N Dual H-Bridge Motor Driver**
 - DC Motors & Wheels
 - Power Supply (Li-ion battery pack)
 - Chassis & Mechanical assembly
